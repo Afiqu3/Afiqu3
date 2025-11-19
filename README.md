@@ -62,13 +62,6 @@ I'm a dedicated Frontend Developer with a strong focus on building intuitive, re
 
 </div>
 
-<div align="center">
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afiqu3&theme=merko&hide_border=true)
-
-
-</div>
 
 ---
 
