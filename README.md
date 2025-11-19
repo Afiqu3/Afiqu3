@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png" 
+       alt="Afique Hossain — Frontend Developer" 
+       width="100%" />
+</div>
+
+<div align="center">
 
 # Hi there, I'm Afique! 👋
 
