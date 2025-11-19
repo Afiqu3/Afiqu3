@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png" 
-       alt="Afique Hossain — Frontend Developer" 
+  <img src="https://github.com/Afiqu3/Afiqu3/blob/238b5550885e045a7d5a8d811eda16320701c746/banner1.jpg" 
        width="100%" />
 </div>
 
