@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/Afiqu3/Afiqu3/blob/238b5550885e045a7d5a8d811eda16320701c746/banner1.jpg" 
-       width="100%" />
+       width="100%" height="70%" />
 </div>
 
 <div align="center">
