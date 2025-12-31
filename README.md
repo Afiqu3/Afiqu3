@@ -57,8 +57,7 @@ I'm a dedicated Frontend Developer with a strong focus on building intuitive, re
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afiqu3&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afiqu3&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Afiqu3&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
