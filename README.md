@@ -69,8 +69,11 @@ I'm a dedicated Frontend Developer with a strong focus on building intuitive, re
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-afique-hossain)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/codewithjihad](https://www.facebook.com/afique.hossain.J/))
+<a href="https://github.com/Afiqu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Afiqu3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-afique-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-afique-hossain" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/afique.hossain.J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/afique.hossain.J" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://https://codeforces.com/profile/md_afique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://https://codeforces.com/profile/md_afique" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/md_afique_hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/md_afique_hossain/" height="30" width="40" /></a>
 
 </div>
 
