@@ -2,8 +2,9 @@
   <img src="https://github.com/Afiqu3/Afiqu3/blob/fde070bfc91efeb8c2f40361f5d27dc5e60d7883/banner01.jpg" 
        width="100%" height="70%" />
 </div>
+---
 
-<div align="center">
+## 👨‍💻 About Me
 
 # Hi there, I'm Md. Afique Hossain! 👋
 
@@ -11,14 +12,6 @@
 🚀 Full Stack Developer who builds fast, scalable web and mobile apps with React, Next.js, Node.js, and React Native.<br>
 🗄️ I design clean APIs and databases with Express, Prisma, PostgreSQL, and MongoDB, and I enjoy exploring data science with Python.<br>
 🌱 Always learning, shipping, and turning ideas into polished, user-friendly products.
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a dedicated Frontend Developer with a strong focus on building intuitive, responsive, and high-quality web applications. I enjoy transforming complex requirements into clean, efficient interfaces and delivering solutions that are both visually appealing and user-centric. With a passion for modern technologies and continuous learning, I strive to create exceptional digital experiences that bring ideas to life.
 
 ---
 
