@@ -53,17 +53,6 @@ I'm a dedicated Frontend Developer with a strong focus on building intuitive, re
 </div>
 
 ---
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Afiqu3&theme=dark)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Afiqu3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-
----
 
 ## 🤝 Let's Connect
 
@@ -76,6 +65,18 @@ I'm a dedicated Frontend Developer with a strong focus on building intuitive, re
 <a href="https://leetcode.com/https://leetcode.com/md_afique_hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/md_afique_hossain/" height="30" width="40" /></a>
 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Afiqu3&theme=dark)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Afiqu3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
 
 ---
 
