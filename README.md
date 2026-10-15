@@ -58,7 +58,8 @@ I'm a dedicated Frontend Developer with a strong focus on building intuitive, re
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Afiqu3&theme=dark)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Afiqu3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Afiqu3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![](https://komarev.com/ghpvc/?username=Afiqu3&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
