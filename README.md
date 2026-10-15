@@ -7,7 +7,10 @@
 
 # Hi there, I'm Md. Afique Hossain! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32E0A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js,+Node.js,+Express.js,+Prisma;Full+Stack+development;Love+Learning+New+Tech" />
+👋 Hi, I'm **Md. Afique Hossain**<br>
+🚀 Full Stack Developer who builds fast, scalable web and mobile apps with React, Next.js, Node.js, and React Native.<br>
+🗄️ I design clean APIs and databases with Express, Prisma, PostgreSQL, and MongoDB, and I enjoy exploring data science with Python.<br>
+🌱 Always learning, shipping, and turning ideas into polished, user-friendly products.
 
 </div>
 
