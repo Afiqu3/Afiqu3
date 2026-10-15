@@ -7,7 +7,7 @@
 
 # Hi there, I'm Md. Afique Hossain! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32E0A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js;MERN+Enthusiast;Love+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32E0A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+Node.js+Express.js;MERN+Enthusiast;Love+Learning+New+Tech" />
 
 </div>
 
