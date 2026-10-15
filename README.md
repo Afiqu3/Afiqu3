@@ -54,7 +54,7 @@ I'm a dedicated Frontend Developer with a strong focus on building intuitive, re
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with me:
 
 <div align="center">
 
