@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Afiqu3/Afiqu3/blob/238b5550885e045a7d5a8d811eda16320701c746/banner01.jpg" 
+  <img src="https://github.com/Afiqu3/Afiqu3/blob/fde070bfc91efeb8c2f40361f5d27dc5e60d7883/banner01.jpg" 
        width="100%" height="70%" />
 </div>
 
