@@ -22,9 +22,9 @@
 
 ## 🌱 What I'm Currently Working On
 
-- 🔭 **Exploring** the server-side ecosystem with Node.js, Express, and MongoDB to build scalable backend services  
-- 📱 **Developing** responsive, accessible, and visually appealing web interfaces using TailwindCSS  
-- 🧠 **Deepening my knowledge** of Node.js to write cleaner, more maintainable, and production-ready code  
+- 🔭 **Full-Stack Development:** Building scalable, secure backend services with Next.js, Node.js, Express, PostgreSQL, and Prisma.<br>
+- 📱 **Frontend Engineering:** Crafting responsive, accessible, and polished user interfaces with Tailwind CSS.<br>
+- 🧠 **Engineering Excellence:** Strengthening my skills in clean architecture, maintainability, and production-ready code. 
 
 ---
 ## 🛠️ Skills & Technologies
