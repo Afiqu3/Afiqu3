@@ -3,10 +3,13 @@
        width="100%" height="70%" />
 </div>
 ---
+<div align="center">
+# Hi there, I'm Md. Afique Hossain! 👋
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32E0A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js,+Node.js,+Express.js,+Prisma;Full+Stack+development;Love+Learning+New+Tech" />
+</div>
 
 ## 👨‍💻 About Me
-
-# Hi there, I'm Md. Afique Hossain! 👋
 
 👋 Hi, I'm **Md. Afique Hossain**<br>
 🚀 Full Stack Developer who builds fast, scalable web and mobile apps with React, Next.js, Node.js, and React Native.<br>
