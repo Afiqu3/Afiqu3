@@ -26,10 +26,9 @@ I'm a dedicated Frontend Developer with a strong focus on building intuitive, re
 - 🧠 **Deepening my knowledge** of Node.js to write cleaner, more maintainable, and production-ready code  
 
 ---
+## 🛠️ Skills & Technologies
 
 <div align="center">
-
-## 🛠️ Skills & Technologies
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
